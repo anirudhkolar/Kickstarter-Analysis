@@ -1,2 +1,2 @@
-# Kickstarter-Analysis
-Analyzing outcomes of Theater campaigns based on Launch Date and Goal
+# Kickstarter-practice
+practice on Excel using Kickstarter data
